@@ -169,6 +169,7 @@ O computador não decide qual deve vir primeiro.
 Ele simplesmente executa aquilo que foi escrito.
 
 Fim da aula!
+
 _
 
 # 🧩 Exercício Rápido
