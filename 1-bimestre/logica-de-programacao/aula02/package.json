@@ -1,0 +1,16 @@
+{
+  "name": "aula02",
+  "version": "1.0.0",
+  "description": "- Conhecer o GitHub Codespaces. - Aprender como será o ambiente de programação. - Conhecer o explorador de arquivos. - Utilizar o terminal. - Executar programas em JavaScript. - Executar testes utilizando Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

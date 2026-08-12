@@ -1,0 +1,19 @@
+{
+  "name": "aula03",
+  "version": "1.0.0",
+  "description": "- Conhecer o JavaScript. - Entender onde ele é utilizado. - Descobrir por que aprender JavaScript. - Escrever os primeiros comandos da linguagem.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

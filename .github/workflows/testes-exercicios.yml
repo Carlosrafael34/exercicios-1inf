@@ -1,0 +1,28 @@
+name: Corretor de Exercícios
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  aula02:
+    name: aula02
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: 1-bimestre/logica-de-programacao/aula02
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install
+      - run: npm test
+
+  aula03:
+  name: aula03
+  runs-on: ubuntu-latest
+  defaults:
+    run:
+      working-directory: 1-bimestre/logica-de-programacao/aula03
+  steps:
+    - uses: actions/checkout@v4
+    - run: npm install
+    - run: npm test
