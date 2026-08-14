@@ -1,0 +1,16 @@
+{
+  "name": "aula09",
+  "version": "1.0.0",
+  "description": "- Conhecer os principais tipos de dados do JavaScript. - Diferenciar texto, número e valor lógico. - Conhecer os operadores aritméticos. - Criar expressões utilizando operadores. - Armazenar resultados de operações em variáveis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

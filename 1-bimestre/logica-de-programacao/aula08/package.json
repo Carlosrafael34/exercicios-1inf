@@ -1,0 +1,16 @@
+{
+  "name": "aula08",
+  "version": "1.0.0",
+  "description": "- Compreender o que são variáveis. - Aprender a criar variáveis em JavaScript. - Conhecer `let`, `const` e `var`. - Entender quando utilizar cada declaração. - Alterar valores armazenados em variáveis. - Identificar a diferença entre uma variável que pode ou não ser alterada.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
