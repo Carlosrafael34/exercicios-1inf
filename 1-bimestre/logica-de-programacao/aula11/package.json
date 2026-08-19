@@ -1,0 +1,19 @@
+{
+  "name": "aula11",
+  "version": "1.0.0",
+  "description": "- Realizar operações utilizando variáveis. - Utilizar variáveis em cálculos matemáticos. - Compreender a diferença entre armazenar um valor e calcular um resultado. - Utilizar operadores `+`, , , `/` e `%` com variáveis. - Resolver problemas simples utilizando informações armazenadas. - Aplicar operações com variáveis em situações próximas da realidade profissional.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

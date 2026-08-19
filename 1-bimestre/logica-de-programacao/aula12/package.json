@@ -1,0 +1,19 @@
+{
+  "name": "aula12",
+  "version": "1.0.0",
+  "description": "- Compreender o que são strings. - Criar e armazenar textos em variáveis. - Concatenar strings. - Utilizar o operador `+` com textos. - Conhecer as template strings. - Utilizar `${}` para inserir variáveis dentro de textos. - Criar mensagens dinâmicas.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
